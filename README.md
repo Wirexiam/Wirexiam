@@ -42,7 +42,7 @@
 
 ## 🚀 Мои проекты
 - [**DigiSheets**](https://digisheets.ru/) — хаб для автоматизации (Google Sheets + Telegram + AI).  
-- [**DigiDocs**](#) — генерация и форматирование статей в Google Docs.  
+- [**DigiDocs**](https://github.com/Wirexiam/DigiDocs) — генерация и форматирование статей в Google Docs.  
 - [**ProfGen**](#) — пайплайн: парсинг → рерайт → Docs → Text.ru.  
 - Боты: [SFXBot](https://t.me/sfxgenbot) · [ImageBot](https://t.me/imageseebot)  
 - Эксперименты: [Randomopolis](https://randomopolis.netlify.app/) · [Organic Waves](https://orwaves.netlify.app/) · [Orbit Dash](https://orbitdash.netlify.app/)
